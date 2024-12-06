@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "267108537785",
+    "firebase_url": "https://parcialfinal-9b8fa-default-rtdb.firebaseio.com",
+    "project_id": "parcialfinal-9b8fa",
+    "storage_bucket": "parcialfinal-9b8fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267108537785:android:938692e14dd0b818999268",
+        "android_client_info": {
+          "package_name": "com.jesuscruz.parcialfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfxsLBeWhD7OAGWcw7cDl66WPNcz9rXIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
